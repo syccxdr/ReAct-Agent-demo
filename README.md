@@ -23,7 +23,7 @@ This repository provides a minimal yet complete implementation of a ReAct (Reaso
 
 1. Clone the repository:
    ```
-   git clone <your_repo_url>
+   git clone https://github.com/syccxdr/ReAct-Agent-demo.git
    cd react-from-scratch
    ```
 
