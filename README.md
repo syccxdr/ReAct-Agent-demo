@@ -61,7 +61,7 @@ This repository provides a minimal yet complete implementation of a ReAct (Reaso
    mkdir credentials
    ```
 
-2. Set up GCP service account credentials:
+2. Set up GCP service account credentials (if using Gemini):
    - Go to the Google Cloud Console (https://console.cloud.google.com/).
    - Create a new project or select an existing one.
    - Navigate to "APIs & Services" > "Credentials".
