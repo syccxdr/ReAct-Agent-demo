@@ -1,0 +1,4 @@
+project_id: gen-lang-client-0708979473
+credentials_json: ./credentials/key.json
+region: us-central1
+model_name: gemini-2.5-pro
